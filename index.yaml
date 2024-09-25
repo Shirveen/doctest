@@ -1,0 +1,96 @@
+- getting-started:
+  - index
+- truendo-integration:
+  - introduction
+  - all-websites
+  - wordpress
+  - wix
+  - shopify
+  - magento
+  - amp
+  - microsoft-consent-mode
+- google-tag-manager-and-truendo:
+  - index
+  - advanced-vs-dot-basic-consent-mode
+  - advanced-consent-mode-google-default
+  - basic-consent-mode-in-gtm
+  - advanced-consent-mode-with-google-analytics
+  - basic-consent-mode-with-google-analytics
+  - google-tags
+  - google-tag-manager-with-consent-mode-v2-old
+  - google-tag-manager
+- cookie-blocking:
+  - index
+  - cookie-categories
+  - scripts
+  - iframes
+  - custom-placeholder
+- javascript-api:
+  - javascript-api
+  - cookie-callback-function
+- consent-management-platform:
+  - banner-customization
+  - custom-cookie-banner
+  - iab-tcf
+  - language-settings
+  - custom-translations-text
+  - recategorizing-cookies
+  - domain-management
+  - adding-removing-services
+  - custom-vendors-and-datatypes
+  - custom-services
+  - manual-scans-recrawl
+  - insights
+  - the-cookie-domain
+  - geo-control
+  - fonts:
+    - index
+  - consent-records
+  - multi-factor-authentication
+  - reconsent
+  - content-security-policy-configuration
+- organization-management:
+  - editing-company-details
+  - billing-details
+  - data-controller-and-data-protection-officer
+  - adding-a-user
+  - adding-removing-websites
+  - adding-more-organizations
+- website-level-management:
+  - index
+- subscription-management:
+  - index
+- privacy-policy-and-cookie-policy:
+  - index
+- wcag-accessibility:
+  - index
+- app-integration:
+  - sdk-and-demo-downloads
+- truendo-and-the-cdn:
+  - index
+- useful-terms:
+  - index
+- disclaimer:
+  - index
+- guides:
+  - index
+  - google-consent-mode-v2:
+    - index
+    - implementing-consent-mode-v2-with-gtm
+    - implementing-consent-mode-v2-without-gtm
+    - testing
+    - troubleshooting
+- truendo-integrity:
+  - index
+- regionalization:
+  - index
+  - geo-control-duplicate
+  - language-settings-duplicate
+- customization:
+  - index
+- service-management:
+  - index
+- consent-management:
+  - index
+- administration:
+  - index
